@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src = "https://github.com/Aaryan-30/Aaryan-30/blob/main/github-header-image.png">
 <!--
 **Aaryan-30/Aaryan-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
